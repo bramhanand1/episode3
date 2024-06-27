@@ -1,0 +1,23 @@
+{
+  "name": "episode3",
+  "version": "1.0.0",
+  "description": "episode three jpx",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/bramhanand1/episode3.git"
+  },
+  "author": "bramha",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
